@@ -19,7 +19,7 @@ The goal is to analyse the health insurance data and to predict the amount to be
 4. Comparing between the regression techniques.
 
 ## Project Dataset & Code
-The dataset and suggested solution for this problem (including the code and outputs) can be downloaded from the following link: [Dataset](https://github.com/Dikshit28/Health-Insurance-Charges-Prediction/blob/master/insurance.csv) & [Code](https://github.com/Dikshit28/Health-Insurance-Charges-Prediction/blob/master/MLR%20vs%20PLR%20on%20Health%20insurance%20charges%20predictions%20.ipynb)
+The dataset and suggested solution for this problem (including the code and outputs) can be downloaded from the following link: [Dataset](https://github.com/Dikshit28/Health-Insurance-Charges-Prediction/blob/master/insurance.csv){:target="_blank"} & [Code](https://github.com/Dikshit28/Health-Insurance-Charges-Prediction/blob/master/MLR%20vs%20PLR%20on%20Health%20insurance%20charges%20predictions%20.ipynb){:target="_blank"}
 
 Using the dataset provided, we built a simple analysing model and using MLR and PLR we predicted output and further we also compare them.
 
@@ -28,4 +28,4 @@ By looking at the graphs and by Judging by the R^2 scour results in the notebook
 - PLR is better for prediction than MLR for our dataset
 - PLR with degree `3` performs best followed by `2, 4, 1(MLR)` respectively
 - We achieved `88% of Accuracy` in our model
-- Output can also be viewed on [this webpage](https://dikshit28.github.io/Health-Insurance-Charges-Prediction/)
+- Output can also be viewed on [this webpage](https://dikshit28.github.io/Health-Insurance-Charges-Prediction/){:target="_blank"}
