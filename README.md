@@ -5,7 +5,7 @@
 ## PREDICTION OF HEALTH INSURANCE CHARGES
 ### Project Report
 
-##Introduction
+## Introduction
 Getting a health insurance now-a-days is becoming as important as breathing. In these tough times of so many diseases like **COVID-19, dengue, so many cases of heart attacks**, no one is definite about their life and the primary member on whom the whole family is dependent, can't risk about the drastic change of conditions if something happens to him unfortunately.
 
 So here we are analysing about health insurance and how much money you must pay with respect to different factors in your day-to-day life.We are also trying to predict using different regression techniques and then comparing those techniques with one another.
