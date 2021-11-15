@@ -1,11 +1,10 @@
 # Health-Insurance-Charges-Prediction
 
-![Project Poster](./Project Report.png)
+![Project Poster](https://github.com/Dikshit28/Health-Insurance-Charges-Prediction/blob/master/Project%20Report.png)
 
 <center>
 <h2> PREDICTION OF HEALTH INSURANCE CHARGES </h2>
 <h4> Project Report </h4>
-<br>
 <br>
 <h2> Introduction </h2>
 <p>Getting a health insurance now-a-days is becoming as important as breathing. In these tough times of so many diseases like COVID-19, dengue, so many cases of heart attacks,
